@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WBLG Series Core Admin 0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-21 15:49+0100\n"
+"PO-Revision-Date: 2012-12-21 15:50+0100\n"
+"Last-Translator: Alain Bariel <lancelot@la-dame-du-lac.com>\n"
+"Language-Team: Alain Bariel <lancelot@la-dame-du-lac.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-"
+"content/plugins/wblg-series-core-admin\n"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:96
+msgid "You do not have sufficient permissions to manage plugins for this site."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:129
+#, php-format
+msgid "Your PHP version is: %1$s installing the %2$s is highly recommended"
+msgstr ""
+"Votre version PHP est : %1$s l’installation de la version %2$s est "
+"grandement recommandée"
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:130
+msgid ""
+"Add the following line in your htaccess at the root of the site can solve "
+"the problem."
+msgstr ""
+"Ajouter la ligne suivante dans votre htaccess à la racine du site peut "
+"résoudre le problème."
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:155
+msgid "Error"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:156
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:235
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:235
+msgid "Multisite support is not enabled."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:236
+msgid "Plugin <strong>deactivated</strong>."
+msgstr ""
+
+#: /Users/lancelot/Sites/la-dame-du-lac/web/www/wp-content/plugins/wblg-series-core-admin/wblg-series-core-admin.php:241
+msgid ""
+"You do not have sufficient permissions to activate plugins for this site."
+msgstr ""
+
+#~ msgid "Set new options for this blog"
+#~ msgstr "Régler de nouvelles options pour ce blog"
+
+#~ msgid "suggestion"
+#~ msgstr "suggestion"
+
+#~ msgid "To manage other parameters go to: "
+#~ msgstr "Pour gérer d’autres paramètres aller à : "
+
+#~ msgid "Set the creation date for this blog"
+#~ msgstr "Régler la date de création pour ce blog"
+
+#~ msgid ""
+#~ "Set the parent category of some major multisite extensions for this blog"
+#~ msgstr ""
+#~ "Réglez la catégorie parente de quelques extensions multi-site majeures "
+#~ "pour ce blog"
+
+#~ msgid "Not set"
+#~ msgstr "Non défini"
+
+#~ msgid "Filter on blogs names"
+#~ msgstr "Filtre sur les noms des blogs"
+
+#~ msgid "Prefix: "
+#~ msgstr "Préfixe : "
+
+#~ msgid "Suffix: "
+#~ msgstr "Suffixe : "
+
+#~ msgid "Prefix and Suffix can be set with"
+#~ msgstr "Préfixe et Suffixe peuvent être définit avec"
+
+#~ msgid "Address Book"
+#~ msgstr "Carnet d'adresses"
+
+#~ msgid "If the desired category doesn’t exist, please create it."
+#~ msgstr "Si la catégorie souhaitée n'existe pas, veuillez la créer."
+
+#~ msgid "Photo Album"
+#~ msgstr "Album Photo"
+
+#~ msgid "suggestion, please save"
+#~ msgstr "suggestion, veuillez enregistrer"
+
+#~ msgid "Address Name"
+#~ msgstr "Nom de l’adresse"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Zipcode"
+#~ msgstr "Code postal"
+
+#~ msgid "City"
+#~ msgstr "Ville"
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "Phone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Telecopy"
+#~ msgstr "Fax"
+
+#~ msgid "Cellphone"
+#~ msgstr "Téléphone mobile"
+
+#~ msgid ""
+#~ "Display the contact details of each blog saved in Wblg Series Blogs "
+#~ "Details Settings"
+#~ msgstr ""
+#~ "Affiche les coordonnées de chaque blog enregistrées dans Wblg Series "
+#~ "Blogs Details Settings"
+
+#~ msgid "Contact details"
+#~ msgstr "Coordonnées"
+
+#~ msgid "Values to hidden"
+#~ msgstr "Les valeurs à masquer"
+
+#~ msgid "WBLG series Core Admin plugin needed."
+#~ msgstr "L’extension WBLG series Core Admin est nécessaire."
+
+#~ msgid "Don’t forget, save your database."
+#~ msgstr "N’oubliez pas de sauvegarder votre base de données."
+
+#~ msgid "Choose a blog as master"
+#~ msgstr "Choisissez un blog maître"
+
+#~ msgid "Exclude"
+#~ msgstr "Exclure"
+
+#~ msgid ""
+#~ "Strikethrough values are excluded by default. The colored values are not "
+#~ "displayed."
+#~ msgstr ""
+#~ "Les valeurs barrées sont exclues par défaut. Les valeurs colorées ne sont "
+#~ "pas affichées."
+
+#~ msgid "Only commons options values between both blogs are displayed."
+#~ msgstr "Seule les options communes aux deux blogs sont affichées."
+
+#~ msgid "Options with the same value in the master blog are not displayed."
+#~ msgstr ""
+#~ "Les options avec la même valeur dans le blog maître ne sont pas affichées."
+
+#~ msgid "Option’s Names"
+#~ msgstr "Nom des options"
+
+#~ msgid "Options from master: "
+#~ msgstr "Options sur le blog maître : "
+
+#~ msgid "Transfer all the values from the master blog"
+#~ msgstr "Transférer toutes les valeurs depuis le blog maître"
+
+#~ msgid "Options to modify: "
+#~ msgstr "Options à modifier : "
+
+#~ msgid "This option field don’t exist yet"
+#~ msgstr "Cette entrée d’option n’existe pas encore"
+
+#~ msgid "Change the value of the field “%1$s” from the master blog"
+#~ msgstr "Modifier la valeur du champ « %1$s » depuis le blog maître"
+
+#~ msgid "The current blog is consistent with the blog master."
+#~ msgstr "Le blog courant est conforme au blog maître."
+
+#~ msgid "Transfert"
+#~ msgstr "Transfert"
+
+#~ msgid "Options actually set: "
+#~ msgstr "Options actuellement enregistrées : "
+
+#~ msgid "Blog Address"
+#~ msgstr "Coordonnées des Blogs"
+
+#~ msgid "Result"
+#~ msgstr "Résultat"
+
+#~ msgid "Conform"
+#~ msgstr "Conforme"
+
+#~ msgid "For more go to: "
+#~ msgstr "Allez à : "

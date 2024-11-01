@@ -1,0 +1,24 @@
+#icon-weblegend { background: transparent url( 'images/icon32-weblegend.png' ) no-repeat; }
+h3.nav-tab-wrapper { padding-top: 15px; margin-top: 0; }
+h3.nav-tab-wrapper a { font-size: 12px; line-height: 16px; padding: 4px 6px 6px; margin: 0 6px -1px 0; }
+
+div.pluginfo { border: 1px solid #CCC; margin: 0 10px; float: right; width: 50%; }
+div.pluginfo div { background: #EEE; padding: 2px 5px; margin: 3px; }
+#poststuff { clear: both; }
+
+table.table-list caption { padding: 2px; background: #888; color: #FFF; font-weight: bold; }
+table.table-list td.label { color: #888; font-weight: bold; }
+table.table-list td { padding: 2px 8px; border-bottom: 1px solid #CCC; }
+input.php-required { width: 100%; color: #999; }
+
+/* communs css */
+table.form-table td { padding: 0; }
+table.form-table td input[type=text] { width: 50%; }
+tr.form-field { padding: 2px 4px; }
+th[scope=row] { text-align: right; font-weight: normal; }
+th[scope=col] { font-weight: bold; background: #DDD; padding: 4px 2px; }
+input.shorted { width: 15% !important; }
+input.net-set { text-decoration: line-through; }
+
+/* patch for lightview */
+.lv_content_canvas, .lv_content_image, .lv_content_flash, .lv_content_object, .lv_content_iframe, .lv_content_html { background: #FFF; }
